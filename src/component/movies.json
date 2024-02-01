@@ -1,0 +1,84 @@
+
+     [
+        {
+            "titre": "Game of Thrones",
+            "note": 9.5
+        },
+        {
+            "titre": "Breaking Bad",
+            "note": 9.4
+        },
+        {
+            "titre": "Stranger Things",
+            "note": 8.9
+        },
+        {
+            "titre": "The Mandalorian",
+            "note": 8.8
+        },
+        {
+            "titre": "The Witcher",
+            "note": 8.7
+        },
+        {
+            "titre": "The Crown",
+            "note": 8.6
+        },
+        {
+            "titre": "Friends",
+            "note": 8.5
+        },
+        {
+            "titre": "Money Heist",
+            "note": 8.4
+        },
+        {
+            "titre": "The Office",
+            "note": 8.3
+        },
+        {
+            "titre": "Narcos",
+            "note": 8.2
+        },
+        {
+            "titre": "Black Mirror",
+            "note": 8.1
+        },
+        {
+            "titre": "Breaking Bad",
+            "note": 8.0
+        },
+        {
+            "titre": "Peaky Blinders",
+            "note": 7.9
+        },
+        {
+            "titre": "Sherlock",
+            "note": 7.8
+        },
+        {
+            "titre": "The Big Bang Theory",
+            "note": 7.7
+        },
+        {
+            "titre": "The Simpsons",
+            "note": 7.6
+        },
+        {
+            "titre": "Westworld",
+            "note": 7.5
+        },
+        {
+            "titre": "Chernobyl",
+            "note": 7.4
+        },
+        {
+            "titre": "The Boys",
+            "note": 7.3
+        },
+        {
+            "titre": "The Walking Dead",
+            "note": 7.2
+        }
+    ]
+
